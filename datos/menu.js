@@ -930,7 +930,7 @@ window.MENU_DATA = {
 
         "descripcion": "Pan brioche con chorizo, queso doble crema, pollo desmechado en salsa de la casa, tocineta, maicitos, cebolla grillé y papa ripio. Acompañado de papas a la francesa.",
 
-        "precio": 23000,
+        "precio": 25000,
 
         "imagen": "img/perros/congo.webp"
 
@@ -963,7 +963,7 @@ window.MENU_DATA = {
 
     ],
 
-     "sándwiches": [
+     "Sándwiches": [
 
       {
 
@@ -1050,7 +1050,7 @@ window.MENU_DATA = {
 
         "descripcion": "Papas a la francesa con carne desmechada en salsa de la casa, guacamole, pico de gallo, totopos y salsa de queso cheddar.",
 
-        "precio": 25000,
+        "precio": 28000,
 
         "imagen": "img/papitas/maguey.webp"
 
@@ -1062,7 +1062,7 @@ window.MENU_DATA = {
 
         "descripcion": "Papas a la francesa con carne desmechada en salsa de la casa, tocineta ahumada, maicitos, chorizo, queso doble crema y salsa de cheddar.",
 
-        "precio": 26000,
+        "precio": 27000,
 
         "imagen": "img/papitas/locas.webp"
 
@@ -1086,7 +1086,7 @@ window.MENU_DATA = {
 
         "descripcion": "Pechuga de pollo y lomo fino con papas a la francesa, maicitos tiernos, chorizo, queso fundido y un toque crocante de papa ripio.",
 
-        "precio": 29000,
+        "precio": 33000,
 
         "imagen": "img/papitas/desgranado.webp"
 
@@ -1171,6 +1171,17 @@ window.MENU_DATA = {
 
     ],
     "Bebidas · Vinos": [
+        {
+
+        "nombre": "Copa de Vino",
+
+        "descripcion": " Copa de vino, ideal para acompañar una buena comida.",
+
+        "precio": 20000,
+
+        "imagen": "img/bebidas/copaa.webp"
+
+      },
 
       {
 
