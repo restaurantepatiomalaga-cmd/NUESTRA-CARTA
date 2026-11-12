@@ -751,7 +751,7 @@ window.MENU_DATA = {
 
         "precio": 28000,
 
-        "imagen": "img/ensaladas/tropical.webp"
+        "imagen": "img/ensaladas/Tropical.webp"
 
       }
 
