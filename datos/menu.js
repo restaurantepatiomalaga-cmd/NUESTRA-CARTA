@@ -161,7 +161,7 @@ window.MENU_DATA = {
 
         "descripcion": " Tres pequeñas hamburguesas en pan brioche dorado, con jugosa carne de res, queso cheddar fundido, tocineta crocante y vegetales frescos. Una combinación irresistible de sabor y textura en cada bocado.",
 
-        "precio": 28000,
+        "precio": 35000,
 
         "imagen": "img/hamburguesas/trio.webp"
 
@@ -901,7 +901,7 @@ window.MENU_DATA = {
 
         "descripcion": " Tres pequeñas hamburguesas en pan brioche dorado, con jugosa carne de res, queso cheddar fundido, tocineta crocante y vegetales frescos. Una combinación irresistible de sabor y textura en cada bocado.",
 
-        "precio": 28000,
+        "precio": 35000,
 
         "imagen": "img/hamburguesas/trio.webp"
 
