@@ -1239,7 +1239,7 @@ window.MENU_DATA = {
 
         "nombre": "Margarita",
 
-        "descripcion": "Cóctel clásico de notas cítricas, preparado con tequila y limón.",
+        "descripcion": "Clásica combinación de tequila y limón, con un balance entre acidez y dulzor que ofrece un sabor cítrico y refrescante.",
 
         "precio": 10000,
 
@@ -1251,7 +1251,7 @@ window.MENU_DATA = {
 
         "nombre": "Mojito",
 
-        "descripcion": "Cóctel refrescante con hierbabuena, limón y notas dulces.",
+        "descripcion": "Mezcla refrescante de ron, hierbabuena, limón y un toque dulce, con aromas frescos y un sabor ligero.",
 
         "precio": 20000,
 
@@ -1263,7 +1263,7 @@ window.MENU_DATA = {
 
         "nombre": "Dry Martini",
 
-        "descripcion": "Cóctel clásico, elegante y seco, de perfil aromático.",
+        "descripcion": "Elegante combinación de ginebra y vermut seco, de carácter intenso, perfil seco y delicadas notas aromáticas.",
 
         "precio": 25000,
 
@@ -1275,7 +1275,7 @@ window.MENU_DATA = {
 
         "nombre": "Gin Tonic",
 
-        "descripcion": "Ginebra con tónica, un cóctel fresco de notas botánicas.",
+        "descripcion": "Ginebra acompañada de agua tónica, una mezcla ligera y refrescante con matices herbales y un sutil amargor.",
 
         "precio": 22000,
 
@@ -1287,7 +1287,7 @@ window.MENU_DATA = {
 
         "nombre": "Whiskey Sour",
 
-        "descripcion": "Cóctel de whisky con limón y un equilibrio entre notas cítricas y dulces.",
+        "descripcion": "Combinación de whisky, limón y dulzor equilibrado, con un contraste de sabores cítricos e intensos.",
 
         "precio": 22000,
 
@@ -1299,7 +1299,7 @@ window.MENU_DATA = {
 
         "nombre": "Piña Colada",
 
-        "descripcion": "Cóctel cremoso de piña y coco, de sabor tropical.",
+        "descripcion": "Deliciosa mezcla de ron, piña y crema de coco, con una textura suave y cremosa que evoca los sabores tropicales.",
 
         "precio": 20000,
 
@@ -1461,7 +1461,7 @@ window.MENU_DATA = {
 
         "descripcion": "Limonada con coco, una combinación tropical de notas cítricas y cremosas.",
 
-        "precio": 10000,
+        "precio": 12000,
 
         "imagen": "img/bebidas/limonada-coco.webp"
 
