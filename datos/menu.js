@@ -1112,7 +1112,7 @@ window.MENU_DATA = {
 
         "precio": 18000,
 
-        "imagen": "img/papitas/dorilocop+.webp"
+        "imagen": "img/papitas/dorilocop.webp"
 
       },
 
