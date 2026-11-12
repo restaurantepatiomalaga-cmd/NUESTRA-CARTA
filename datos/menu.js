@@ -44,7 +44,7 @@ window.MENU_DATA = {
 
 
 
-   "Lo sugerido": [
+   "Lo Sugerido": [
         {
 
         "nombre": "Arroz Chaufa de Lomo",
