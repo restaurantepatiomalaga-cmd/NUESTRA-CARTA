@@ -518,7 +518,7 @@ window.MENU_DATA = {
 
         "precio": 30000,
 
-        "imagen": "img/mar/"
+        "imagen": "img/mar/cevichecla.webp"
 
       },
         
