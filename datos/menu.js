@@ -180,7 +180,7 @@ window.MENU_DATA = {
 
         "descripcion": "300 g de entraña sazonada con pimienta de cayena, acompañada de papas a la francesa trufadas con pecorino romano y terminadas con cebollín chino.",
 
-        "precio": 45000,
+        "precio": 48000,
 
         "imagen": "img/carnes/entrañita.webp"
 
@@ -191,7 +191,7 @@ window.MENU_DATA = {
 
         "descripcion": "Jugoso corte fino importado, madurado para garantizar una terneza y sabor inigualables, sellado a la parrilla en el término de tu preferencia. Acompañado de crujientes papas a la francesa, nuestro chimichurri artesanal de la casa y guacamole fresco.",
 
-        "precio": 45000,
+        "precio": 000,
 
         "imagen": "img/carnes/punta-de-anca.webp"
 
@@ -385,7 +385,7 @@ window.MENU_DATA = {
 
         "descripcion": "Una generosa selección de sabores del mar: calamar, pulpo, camarones, mejillones y filete de pescado, preparados a la parrilla. Acompañada de tomates cherry confitados y una porción de crocantes patacones. Una experiencia llena de sabor, ideal para compartir entre dos o más personas y disfrutar juntos de lo mejor del mar.",
 
-        "precio": 120000,
+        "precio": 130000,
 
         "imagen": "img/mar/parrimar.webp"
 
@@ -1050,7 +1050,7 @@ window.MENU_DATA = {
 
         "descripcion": "Papas a la francesa con carne desmechada en salsa de la casa, guacamole, pico de gallo, totopos y salsa de queso cheddar.",
 
-        "precio": 28000,
+        "precio": 26000,
 
         "imagen": "img/papitas/maguey.webp"
 
@@ -1326,7 +1326,7 @@ window.MENU_DATA = {
 
         "descripcion": "Soda italiana refrescante con el delicado sabor frutal del lichi.",
 
-        "precio": 10000,
+        "precio": 12000,
 
         "imagen": "img/bebidas/liche.webp"
 
