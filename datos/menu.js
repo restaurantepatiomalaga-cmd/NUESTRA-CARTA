@@ -1143,33 +1143,7 @@ window.MENU_DATA = {
     ],
 
     
-    "Adicionales": [
-
-      {
-
-        "nombre": "patacon",
-
-        "descripcion": "",
-
-        "precio": 20000,
-
-        "imagen": "img/bebidas/sangria-copa.webp"
-
-      },
-
-      {
-
-        "nombre": "arroz",
-
-        "descripcion": "Jarra de sangría para compartir.",
-
-        "precio": 70000,
-
-        "imagen": "img/bebidas/sangria-jarra.webp"
-
-    }
-
-    ],
+   
     "Bebidas · Vinos": [
         {
 
