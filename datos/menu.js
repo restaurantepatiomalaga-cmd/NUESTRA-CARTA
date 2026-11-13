@@ -259,7 +259,7 @@ window.MENU_DATA = {
 
         "nombre": "Churrasquito",
 
-        "descripcion": "Corte de res, acompañado de chimichurri y papas criollas.",
+        "descripcion": "Corte de res de fina selección, sellado a la parrilla para conservar su jugosidad y sabor, acompañado de crujientes cascos de papa criolla",
 
         "precio": 46000,
 
@@ -1241,7 +1241,7 @@ window.MENU_DATA = {
 
         "descripcion": "Clásica combinación de tequila y limón, con un balance entre acidez y dulzor que ofrece un sabor cítrico y refrescante.",
 
-        "precio": 10000,
+        "precio": 20000,
 
         "imagen": "img/bebidas/margarita.webp"
 
@@ -1366,7 +1366,7 @@ window.MENU_DATA = {
 
         "nombre": "Soda Limon",
 
-        "descripcion": "Jugo natural preparado en agua. Sabores disponibles: mora, fresa, maracuyá, guanábana, mango y lulo.",
+        "descripcion": "Soda refrescante de limón, con un equilibrio entre notas cítricas, dulzor y burbujas que la hacen ligera y refrescante.",
 
         "precio": 6000,
 
