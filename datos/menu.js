@@ -191,7 +191,7 @@ window.MENU_DATA = {
 
         "descripcion": "Jugoso corte fino importado, madurado para garantizar una terneza y sabor inigualables, sellado a la parrilla en el término de tu preferencia. Acompañado de crujientes papas a la francesa, nuestro chimichurri artesanal de la casa y guacamole fresco.",
 
-        "precio": 000,
+        "precio": 58000,
 
         "imagen": "img/carnes/punta-de-anca.webp"
 
